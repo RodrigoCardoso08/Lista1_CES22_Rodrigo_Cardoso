@@ -8,6 +8,4 @@ def is_prime(n):
     else:
         return False
 
-a = is_prime(2)
-print(a)
 

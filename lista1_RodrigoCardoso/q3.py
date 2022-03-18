@@ -5,4 +5,3 @@ def sum_to (n):
     return sum
     
 a = sum_to(10)
-print(a)
